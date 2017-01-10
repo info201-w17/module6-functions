@@ -3,7 +3,7 @@
 # Create a variable `my.name` that contains your name
 
 
-# Create a variable `name.length` that holds how many letters are in your name (use the `nchars()` function)
+# Create a variable `name.length` that holds how many letters are in your name (use the `nchar()` function)
 
 
 # Print the number of letters in your name
